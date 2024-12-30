@@ -22,8 +22,7 @@ Hi there! I'm Antônio 👋, a developer, passionate tech, and lifelong learner.
 
 ## 📈 GitHub Stats  
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tonhoantunes&show_icons=true&theme=radical" alt="GitHub Stats" />
 </div>
 
 ---
