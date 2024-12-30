@@ -1,16 +1,47 @@
-## Hi there 👋
+#  Welcome to My GitHub Profile! 
 
+Hi there! I'm Antônio 👋, a developer, passionate tech, and lifelong learner. 🚀  
+
+## 💻 About Me  
+- 🔭 Currently working on InfoHelp project (my Integrator Project).
+- 🌱 I’m learning Django.  
+- 🎯 My goal is to become a full-stack developer.
+
+---
+
+## 🛠️ Technologies and Tools  
+<div style="display: flex; flex-wrap: wrap;">
+<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
+<img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+</div>
+
+---
+
+## 📈 GitHub Stats  
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical" alt="Top Languages" />
+</div>
+
+---
 <!--
-**tonhoantunes/tonhoantunes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## 📫 How to Reach Me  
+- **LinkedIn**: [Your LinkedIn Name](https://www.linkedin.com/in/yourlinkedin)  
+- **Portfolio**: [yourwebsite.com](https://www.yourwebsite.com)  
+- **Email**: [youremail@example.com](mailto:youremail@example.com)  
 -->
+---
+
+## 🚀 Featured Projects  
+### InfoHelp (https://github.com/tonhoantunes/infohelp)
+**Description**: InfoHelp is an educational platform developed with my course colleagues for our Integrator Project. 
+🛠️ **Technologies**: HTML, CSS, JavaScript and Django
+
+---
+
+### 🎈 **"The journey of a thousand miles begins with a single step."**  
+
+Feel free to explore my repositories and contribute. Let’s create something amazing together! 🚀
