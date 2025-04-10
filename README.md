@@ -2,9 +2,7 @@
 
 Hi there! I'm Antônio 👋, a developer, passionate tech, and lifelong learner. 🚀  
 
-## 💻 About Me  
-- 🔭 Currently working on InfoHelp project (my Integrator Project).
-- 🌱 I’m learning Django.  
+## 💻 About Me 
 - 🎯 My goal is to become a full-stack developer.
 
 ---
@@ -31,15 +29,14 @@ Hi there! I'm Antônio 👋, a developer, passionate tech, and lifelong learner.
 - **LinkedIn**: [Your LinkedIn Name](https://www.linkedin.com/in/yourlinkedin)  
 - **Portfolio**: [yourwebsite.com](https://www.yourwebsite.com)  
 - **Email**: [youremail@example.com](mailto:youremail@example.com)  
--->
+
 ---
 
 ## 🚀 Featured Projects  
-### InfoHelp (https://github.com/tonhoantunes/infohelp)
-**Description**: InfoHelp is an educational platform developed with my course colleagues for our Integrator Project. 
-🛠️ **Technologies**: HTML, CSS, JavaScript and Django
+
 
 ---
+-->
 
 ### 🎈 **"The journey of a thousand miles begins with a single step."**  
 
